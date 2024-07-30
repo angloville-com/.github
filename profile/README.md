@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
-[![Php][Php]][Php-url]
 [![Symfony][Symfony]][Symfony-url]
 [![React][React.js]][React-url]
 [![RabbitMQ][RabbitMQ]][RabbitMQ-url]
