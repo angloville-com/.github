@@ -23,24 +23,6 @@
   </p>
 </div>
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This is just a base readme, I will edit this later so this page will be an entrypoint for all of ours environments
-
-PROD Links:
-* CRM -- link
-* Customer Panel - link 
-* Prod api url for core-service
-* Prod api url for account-service
-* Prod api url for payment-service
-* Prod rabbitmq management
-* Prod sentry
-* Prod digitalocean
-
-AND staging bellow.. 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [Symfony]: https://img.shields.io/badge/symfony-1F2937?style=for-the-badge&logo=symfony&logoColor=white
 [Symfony-url]: https://symfony.com/
